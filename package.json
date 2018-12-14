@@ -1,6 +1,6 @@
 {
   "name": "sprint-calculator",
-  "homepage": "http://drewjenkins.github.io/sprint-calculator/",
+  "homepage": "https://drewjenkins.github.io/sprint-calculator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
